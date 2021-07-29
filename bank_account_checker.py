@@ -1,4 +1,4 @@
-bank_account = 2
+bank_account = 140000
 
 if bank_account < 100000:
     difference_to_100k = 100000 - bank_account
