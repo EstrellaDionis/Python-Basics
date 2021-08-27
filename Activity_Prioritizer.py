@@ -5,7 +5,7 @@ while hobbies[-1] != "Dance":
     del hobbies[-1]
 
 number = str(len(hobbies))
-print("These are your " + number + "favorite hobbies:")
+print("These are your " + number + " favorite hobbies:")
 print(hobbies)
 
 extras = ["Gym", "Cinema", "Restaurants",
